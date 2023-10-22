@@ -1,6 +1,6 @@
 # Random Color Palette Generator
  This is an application that will generate and display random color palettes to its visitors with every click.
-<img src=''>
+<img src='https://github.com/vivianw969/random_color_palette/blob/main/preview.jpg'>
 
 
  # Technology Stack
