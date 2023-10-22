@@ -1,4 +1,4 @@
-# random_color_palette
+# Random Color Palette Generator
  This is an application that will generate and display random color palettes to its visitors with every click.
 
 
